@@ -7,4 +7,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HolaMundo_Library\HolaMundo_Library.csproj" />
+  </ItemGroup>
+
 </Project>
