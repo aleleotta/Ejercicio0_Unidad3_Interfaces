@@ -46,9 +46,10 @@ Partial Class Form1
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Location = New Point(121, 197)
+        Label1.Font = New Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Point)
+        Label1.Location = New Point(106, 192)
         Label1.Name = "Label1"
-        Label1.Size = New Size(54, 15)
+        Label1.Size = New Size(67, 20)
         Label1.TabIndex = 2
         Label1.Text = "Nombre:"
         ' 
